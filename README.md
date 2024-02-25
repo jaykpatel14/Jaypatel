@@ -48,6 +48,9 @@ I am a dedicated and results-driven Cybersecurity student with a strong foundati
 - Experienced with various operating systems and database manipulation using SQL.
 
 ## 🎖️ Certifications
+
 - CompTIA Security+
-- Health and Safety Certification
+  
+  ![image](https://github.com/jaykpatel14/Jaypatel/assets/139708703/5784e5b0-1814-48b8-88d2-48daab9d521b)
+
 
